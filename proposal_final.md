@@ -51,5 +51,5 @@ All of these columns will be utilized as a target in order to complete clusterin
 
 ### 7) Look at the distribution of the target columns. for categorical type, find out if it is imblanced. For numeric type, see how it is distributed  (summary statistics, boxplot, histogram).
 
-
+Need to finish this but graphs are in jupyter notebook. 
 
