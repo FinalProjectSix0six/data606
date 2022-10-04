@@ -4,31 +4,30 @@
 
 ### 2) Column data types
 
-Customer                          object
-State                             object
-Customer Lifetime Value          float64
-Response                          object
-Coverage                          object
-Education                         object
-Effective To Date                 object
-EmploymentStatus                  object
-Gender                            object
-Income                             int64
-Location Code                     object
-Marital Status                    object
-Monthly Premium Auto               int64
-Months Since Last Claim            int64
-Months Since Policy Inception      int64
-Number of Open Complaints          int64
-Number of Policies                 int64
-Policy Type                       object
-Policy                            object
-Renew Offer Type                  object
-Sales Channel                     object
-Total Claim Amount               float64
-Vehicle Class                     object
-Vehicle Size                      object
-dtype: object
+- Customer                          object
+- State                             object
+- Customer Lifetime Value          float
+- Response                          object
+- Coverage                          object
+- Education                         object
+- Effective To Date                 object
+- EmploymentStatus                  object
+- Gender                            object
+- Income                             integer
+- Location Code                     object
+- Marital Status                    object
+- Monthly Premium Auto               integer
+- Months Since Last Claim            integer
+- Months Since Policy Inception      integer
+- Number of Open Complaints          integer
+- Number of Policies                 integer
+- Policy Type                       object
+- Policy                            object
+- Renew Offer Type                  object
+- Sales Channel                     object
+- Total Claim Amount               float
+- Vehicle Class                     object
+- Vehicle Size                      object
 
 
 ### 3) Check for number of unique categories for categorical variables
