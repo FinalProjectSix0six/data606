@@ -47,7 +47,7 @@ Employment Status, customer, and Effective to Date are three features that are c
 
 ### 6) Identify the target column 
 
-All of these columns will be utilized as a target in order to complete clustering algorithem. For further analysis I can use the response column to analyze using Logistic Regression.
+All of these columns will be utilized as a target in order to complete clustering algorithem. For further analysis I can use the response column to analyze using Logistic Regression in which I convert the response to 0 and 1 and calculate precision,recall and area under the curve.
 
 ### 7) Look at the distribution of the target columns. for categorical type, find out if it is imblanced. For numeric type, see how it is distributed  (summary statistics, boxplot, histogram).
 
