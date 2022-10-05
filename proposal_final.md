@@ -51,5 +51,4 @@ All of these columns will be utilized as a target in order to complete clusterin
 
 ### 7) Look at the distribution of the target columns. for categorical type, find out if it is imblanced. For numeric type, see how it is distributed  (summary statistics, boxplot, histogram).
 
-Need to finish this but graphs are in jupyter notebook. 
-
+Monthly Premium Auto is heavily skewed as one of the columns. This feature contains many upper bound outliers and will have to be scaled in order for it to be included in the dataset. As of now I am aware that a number 3 standard deviations above or below the mean is considered an outlier. Therefore I will remove those above the mean of this feature which is 93.219291
